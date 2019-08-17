@@ -1,4 +1,7 @@
-# To run this project
+# Simple object detection example using dlib with a very small dataset
+
+##to run this project
+
 1.first annotate the objects you want to detect using the given command
 
 python gather_annotations.py --dataset clocks --annotations anot.npy --images images.npy
